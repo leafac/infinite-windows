@@ -1,6 +1,7 @@
 Infinite Windows
 ================
 
+- https://github.com/fikovnik/ShiftIt
 - https://alvinalexander.com/source-code/mac-os-x/how-size-or-resize-application-windows-applescript
 - https://www.labnol.org/software/resize-mac-windows-to-specific-size/28345/
 - https://apple.stackexchange.com/questions/106388/osascript-set-bounds-of-window-not-working-after-mavericks-upgrade
